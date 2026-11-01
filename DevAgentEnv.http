@@ -4,3 +4,8 @@ GET {{DevAgentEnv_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{DevAgentEnv_HostAddress}}/weatherforecast/Canada
+Accept: application/json
+
+###
